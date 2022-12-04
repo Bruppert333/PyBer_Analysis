@@ -5,6 +5,7 @@ The purpose of this analysis challenge was to better our skills in DataFrames, b
 ## Results
 ### Deliverable 1
 In Deliverable 1, we extracted the information we needed for the analysis by using the groupby, sum, and count functions as shown below. We then created a DataFrame to clearly see the data for Rural, Suburban, and Urban cities. From the data we found that in Urban cities the average fare per person was roughly $7.50 less than the Rural cities. 
+
 ![Deliverable_1.1](Analysis/Deliverable_1.1.png).
 ![Deliverable_1.2](Analysis/Deliverable_1.2.png).
 ![Deliverable_1.3](Analysis/Deliverable_1.3.png).
