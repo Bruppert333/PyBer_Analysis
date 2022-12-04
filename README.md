@@ -18,4 +18,5 @@ In Deliverable 2, we grouped by type and date so we could see how much the fare 
 ![Deliverable_2.4](Analysis/Deliverable_2.4.png).
 ## Summary
 ![PyBer_fare_summary](Analysis/PyBer_fare_summary.png).
+
 According to the graph, the urban cities are clearly spending more on transportation than Rural and Suburban cities. This is most likely because there is more options for fare's in Urban areas rather than Rural and Suburban cities. An option would be to raise the price of fare's in Suburban and Rural cities, but then you take the risk of people not using that transportation method anymore. Also, another suggestion would be to make more fare type options in Rural and Suburban cities, but again you are taking a risk because more people in these types of areas have thier own vehicles. Unless you can take personal vehicles away from people, this is how it will be. More people bring more opportunity for fare types. When people are spread out, it is harder to bring them transporation methods other than them driving themselves. 
